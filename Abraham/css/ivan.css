@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(232, 148, 20);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.contenido {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
